@@ -28,7 +28,7 @@ ul {
   top: 0;
   display: none;
 }
-.pic li.pic1 {
+.pic li.bg1 {
   background-image: url(../img/pic1.jpg);
   display: block;
 }
